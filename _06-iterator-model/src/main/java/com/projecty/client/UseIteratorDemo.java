@@ -14,8 +14,8 @@ import java.util.List;
 @Service
 public class UseIteratorDemo {
 
-    //迭代器模式 是为了将数据的控制和遍历进行分离，并且不向外暴露数据的内部结构（职责分离+迪米特法则）
-    //但是一般除了自定义的数据结构，基本上所有外部提供的数据结构都有现成的迭代器iterator，自定义数据结构对应ConcreteAggregate
+/*    迭代器模式 是为了将数据的控制和遍历进行分离，并且不向外暴露数据的内部结构（职责分离+迪米特法则）
+    但是一般除了自定义的数据结构，基本上所有外部提供的数据结构都有现成的迭代器iterator，自定义数据结构对应ConcreteAggregate*/
     public void iterateAggregate(List<Object> data) {
         //创建自定义的聚合数据类型
         Aggregate concreteAggregate = new ConcreteAggregate(data);

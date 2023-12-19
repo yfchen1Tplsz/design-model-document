@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_02-strategy-model" />
+        <module name="_04-proxy-model" />
+        <module name="_06-iterator-model" />
+        <module name="_05-singleton-model" />
+        <module name="_07-visitor-model" />
+        <module name="_03-memento-model" />
+        <module name="_01-simple-factory-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="proxy" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="_01-simple-factory-model" options="-parameters" />
+      <module name="_02-strategy-model" options="-parameters" />
+      <module name="_03-memento-model" options="-parameters" />
+      <module name="_04-proxy-model" options="-parameters" />
+      <module name="_05-singleton-model" options="-parameters" />
+      <module name="_06-iterator-model" options="-parameters" />
+      <module name="_07-visitor-model" options="-parameters" />
+      <module name="proxy" options="-parameters" />
+    </option>
+  </component>
+</project>

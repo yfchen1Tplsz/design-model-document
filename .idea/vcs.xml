@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_01-simple-factory-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_02-strategy-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_03-memento-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_04-proxy-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_05-singleton-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_06-iterator-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_07-visitor-model" vcs="Git" />
+  </component>
+</project>
