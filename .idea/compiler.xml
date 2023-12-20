@@ -8,12 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_02-strategy-model" />
+        <module name="_08-observer-model" />
         <module name="_04-proxy-model" />
+        <module name="_10-template-method-model" />
         <module name="_06-iterator-model" />
         <module name="_05-singleton-model" />
         <module name="_07-visitor-model" />
         <module name="_03-memento-model" />
+        <module name="_09-command-model" />
         <module name="_01-simple-factory-model" />
+        <module name="_11-bridge-model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +33,10 @@
       <module name="_05-singleton-model" options="-parameters" />
       <module name="_06-iterator-model" options="-parameters" />
       <module name="_07-visitor-model" options="-parameters" />
+      <module name="_08-observer-model" options="-parameters" />
+      <module name="_09-command-model" options="-parameters" />
+      <module name="_10-template-method-model" options="-parameters" />
+      <module name="_11-bridge-model" options="-parameters" />
       <module name="proxy" options="-parameters" />
     </option>
   </component>

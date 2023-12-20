@@ -8,6 +8,10 @@
     <file url="file://$PROJECT_DIR$/_05-singleton-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_06-iterator-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_07-visitor-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_08-observer-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_09-command-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_10-template-method-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_11-bridge-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proxy/src/main/java" charset="UTF-8" />
   </component>
 </project>

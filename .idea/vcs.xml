@@ -9,5 +9,9 @@
     <mapping directory="$PROJECT_DIR$/_05-singleton-model" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_06-iterator-model" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_07-visitor-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_08-observer-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_09-command-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_10-template-method-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_11-bridge-model" vcs="Git" />
   </component>
 </project>

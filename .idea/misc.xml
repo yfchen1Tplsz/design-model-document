@@ -15,6 +15,10 @@
         <option value="$PROJECT_DIR$/_06-iterator-model/pom.xml" />
         <option value="$PROJECT_DIR$/_05-singleton-model/pom.xml" />
         <option value="$PROJECT_DIR$/_07-visitor-model/pom.xml" />
+        <option value="$PROJECT_DIR$/_08-observer-model/pom.xml" />
+        <option value="$PROJECT_DIR$/_09-command-model/pom.xml" />
+        <option value="$PROJECT_DIR$/_10-template-method-model/pom.xml" />
+        <option value="$PROJECT_DIR$/_11-bridge-model/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

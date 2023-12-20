@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50bee899-c933-4e1a-a083-2e4b97c91e61" name="Changes" comment="add：SingletonModel IteratorModel date: 2023-12-19 21:29">
+      <change afterPath="$PROJECT_DIR$/.idea/setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10-template-method-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/client/UseTemplateMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/template/AbstractTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/template/ConcreteClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/template/ConcreteClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/test/java/com/projectf/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/ConcreteImplementorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/ConcreteImplementorB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/ConcreteImplementorC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/Implementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/RefineAbstractionX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/RefineAbstractionY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/RefineAbstractionZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/client/UseBridgeModelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/test/java/com/projecty/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_11-bridge-model" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../application-soft/apache-maven-3.9.5" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="G:\application-soft\apache-maven-3.9.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ZoHPo4OFguXjzFm854KlaB1mHl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "G:/runes-project/design-module-note",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.projecty.bridge" />
+      <recent name="com.projectf.template" />
+      <recent name="com.projecty.command" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (10)">
+    <configuration name="Application (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_11-bridge-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_02-strategy-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.runes.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_03-memento-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_04-proxy-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_05-singleton-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_06-iterator-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_07-visitor-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_08-observer-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_09-command-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="_10-template-method-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projectf.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.projectf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_01-simple-factory-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.umbrella.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application (9)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50bee899-c933-4e1a-a083-2e4b97c91e61" name="Changes" comment="add：SingletonModel IteratorModel date: 2023-12-19 21:29" />
+      <created>1703081498612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703081498612</updated>
+      <workItem from="1703081499863" duration="1143000" />
+      <workItem from="1703082669935" duration="3027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add：SingletonModel IteratorModel date: 2023-12-19 21:29" />
+    <option name="LAST_COMMIT_MESSAGE" value="add：SingletonModel IteratorModel date: 2023-12-19 21:29" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
