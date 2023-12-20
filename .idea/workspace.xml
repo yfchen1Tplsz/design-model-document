@@ -5,33 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50bee899-c933-4e1a-a083-2e4b97c91e61" name="Changes" comment="add：SingletonModel IteratorModel date: 2023-12-19 21:29">
-      <change afterPath="$PROJECT_DIR$/.idea/setting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10-template-method-model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/client/UseTemplateMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/template/AbstractTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/template/ConcreteClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/java/com/projectf/template/ConcreteClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10-template-method-model/src/test/java/com/projectf/ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/ConcreteImplementorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/ConcreteImplementorB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/ConcreteImplementorC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/Implementor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/RefineAbstractionX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/RefineAbstractionY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/bridge/RefineAbstractionZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/java/com/projecty/client/UseBridgeModelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11-bridge-model/src/test/java/com/projecty/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/java/com/projecty/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/java/com/projecty/adapter01/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/java/com/projecty/adapter01/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/java/com/projecty/adapter01/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/java/com/projecty/adapter02/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/java/com/projecty/adapter02/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/java/com/projecty/adapter02/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/java/com/projecty/client/UseAdaptModelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12-adapter-model/src/test/java/com/projecty/ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_11-bridge-model" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_12-adapter-model" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -103,9 +92,16 @@
       <recent name="com.projecty.command" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application (10)">
+  <component name="RunManager" selected="Spring Boot.Application (11)">
     <configuration name="Application (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="_11-bridge-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (11)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_12-adapter-model" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.projecty.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -202,7 +198,8 @@
       <option name="presentableId" value="Default" />
       <updated>1703081498612</updated>
       <workItem from="1703081499863" duration="1143000" />
-      <workItem from="1703082669935" duration="3027000" />
+      <workItem from="1703082669935" duration="4052000" />
+      <workItem from="1703087856879" duration="1007000" />
     </task>
     <servers />
   </component>

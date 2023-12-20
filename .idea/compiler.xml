@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_12-adapter-model" />
         <module name="_02-strategy-model" />
         <module name="_08-observer-model" />
         <module name="_04-proxy-model" />
@@ -37,6 +38,7 @@
       <module name="_09-command-model" options="-parameters" />
       <module name="_10-template-method-model" options="-parameters" />
       <module name="_11-bridge-model" options="-parameters" />
+      <module name="_12-adapter-model" options="-parameters" />
       <module name="proxy" options="-parameters" />
     </option>
   </component>
